@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Test Audio ExoHls</string>
+    <string name="playback_channel_name">Playback</string>
+</resources>
